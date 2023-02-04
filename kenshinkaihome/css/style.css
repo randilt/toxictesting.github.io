@@ -1,6 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #03001C;
+  background-color: #eeeef1;
 }
 
 .layout_padding {
@@ -219,13 +219,13 @@ a:focus {
 
 .welcome_detail h2 {
   text-transform: uppercase;
-  color: #fcfaf9;
+  color: #0a0a0a;
   font-weight: bold;
 }
 
 .welcome_detail h3 {
   text-transform: uppercase;
-  color: #f3f6fc;
+  color:#0e0f0f;
   position: relative;
 }
 
@@ -252,7 +252,7 @@ a:focus {
   color: #f7f5f2;
 }
 .about-text-welcome{
-  color:#f5efef;
+  color:#0e0f0f;
 }
 
 .welcome_section .welcome_detail-btn a img {
